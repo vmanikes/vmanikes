@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vmanikes](https://github.com/vmanikes)
 
-- 📫 How to reach me **https://www.linkedin.com/in/manikeswaramchaitanya/**
-
 - ⚡ Fun fact **I love programming memes**
 
 <p align="left">
