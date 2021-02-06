@@ -1,3 +1,10 @@
+<html>
+    <head>
+        <!-- in your header -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
+    </head>
+
+
 <h1 align="center">Hi 👋, I'm Venkata Chaitanya</h1>
 <h3 align="center">I am backend and DevOps Engineer. I am passionate about tech and want start learning ML</h3>
 
@@ -12,7 +19,7 @@
 <h3 align="left">My Skills:</h3>
 <p align="left">
     <h4 align="left">Languages:</h4>
-    <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+    <a href="https://golang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.rust-lang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
@@ -49,3 +56,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmanikes&layout=compact" alt="vmanikes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vmanikes&show_icons=true" alt="vmanikes" /></p>
+</html>
