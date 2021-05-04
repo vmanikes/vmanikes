@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmanikes" alt="vmanikes" /> </p>
 
 - 🌱 I’m currently learning **Rust and ML**
-
+- Contributor for [AWS XRay Daemon](https://github.com/aws/aws-xray-daemon)
 - 👨‍💻 All of my projects are available at [https://github.com/vmanikes](https://github.com/vmanikes)
 
 - ⚡ Fun fact **I love programming memes**
