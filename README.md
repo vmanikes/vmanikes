@@ -7,6 +7,8 @@
 
 <h1 align="center">Hi 👋, I'm Venkata Chaitanya</h1>
 <h3 align="center">I am backend and DevOps Engineer. I am passionate about tech and want start learning ML</h3>
+    
+<a href="https://app.daily.dev/raging_bulldoze"><img align="right" src="https://api.daily.dev/devcards/dc43e7ba20474b19aad2965117ff31e3.png?r=669" width="400" alt="Venkata S S K M Chaitanya's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmanikes" alt="vmanikes" /> </p>
 
