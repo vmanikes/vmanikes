@@ -6,13 +6,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Venkata Chaitanya</h1>
-<h3 align="center">I am backend and DevOps Engineer. I am passionate about tech and want start learning ML</h3>
+<h3 align="center">I am Backend and DevOps Engineer. I am a self motivated, continuously learning Software Engineer who believes that Software Engineering is an art. I strive to
+write clean, maintainable and testable code that will help me and others in my team to be always ready to implement new
+features. I love working with both Infra and Software as I strongly believe that if a coder knows his underlying infra the
+code will turn out to be much better. Also I am environmentally conscious engineer who wants to achieve more with using
+less resources which saves money for the organization that I work for and also ensures less carbon is omitted</h3>
     
 <a href="https://app.daily.dev/raging_bulldoze"><img align="right" src="https://github.com/vmanikes/vmanikes/blob/main/devcard.svg" width="400" alt="Venkata S S K M Chaitanya's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmanikes" alt="vmanikes" /> </p>
 
-- 🌱 I’m currently learning **Rust and ML**
+- 🌱 I’m currently learning **Rust**
 - Contributor for [AWS XRay Daemon](https://github.com/aws/aws-xray-daemon)
 - 👨‍💻 All of my projects are available at [https://github.com/vmanikes](https://github.com/vmanikes)
 
