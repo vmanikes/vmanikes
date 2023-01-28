@@ -3,29 +3,35 @@
         <!-- in your header -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
     </head>
-<h1 align="center">Hi 👋, I'm Venkata Chaitanya</h1>
-<h3> What do I do? </h3>
-    <p>I am a Backend and DevOps Engineer</p>
-<h3>My Traits or Ideologies</h3>
-    <ul>
-        <li> I believe the Software Engineering is an art </li>
-        <li> I strive to
-write clean, maintainable and testable code that will help me and others in my team to be always ready to implement new
-features </li>
-        <li>I love working with both Infra and Software as I strongly believe that if a coder knows his underlying infra the
-code will turn out to be much better.</li>
-        <li>I am environmentally conscious engineer who wants to achieve more with using
-less resources which saves money for the organization that I work for and also ensures less carbon is omitted</li>
-    </ul>
+    <h1 align="center">Hi 👋, I'm Venkata Chaitanya</h1>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmanikes" alt="vmanikes" /> </p>
+    <h3> What do I do? </h3>
+        <p>I am a Backend and DevOps Engineer</p>
+    <h3>My Traits</h3>
+        <ul>
+            <li> I believe the Software Engineering is an art </li>
+            <li> I strive to
+    write clean, maintainable and testable code that will help me and others in my team to be always ready to implement new
+    features </li>
+            <li>I love working with both Infra and Software as I strongly believe that if a coder knows his underlying infra the
+    code will turn out to be much better.</li>
+            <li>I am environmentally conscious engineer who wants to achieve more with using
+    less resources which saves money for the organization that I work for and also ensures less carbon is omitted</li>
+        </ul>
+
+    <h3>My Principles</h3>
+        <ul>
+            <li>Do one thing and do it better</li>
+            <li>Do not start a task and stop without completing</li>
+            <li>Have Passion and find motivation</li>
+            <li>Start small and improve</li>
+            <li>Be Brutally Honest</li>
+        </ul>
     
 <a href="https://app.daily.dev/raging_bulldoze"><img align="right" src="https://github.com/vmanikes/vmanikes/blob/main/devcard.svg" width="400" alt="Venkata S S K M Chaitanya's Dev Card"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vmanikes" alt="vmanikes" /> </p>
-
 - 🌱 I’m currently learning **Rust**
-- Contributor for [AWS XRay Daemon](https://github.com/aws/aws-xray-daemon)
 - 👨‍💻 All of my projects are available at [https://github.com/vmanikes](https://github.com/vmanikes)
-
 - ⚡ Fun fact **I love programming memes**
 
 <h3 align="left">My Skills:</h3>
