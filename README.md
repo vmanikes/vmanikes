@@ -3,14 +3,20 @@
         <!-- in your header -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
     </head>
-
-
 <h1 align="center">Hi 👋, I'm Venkata Chaitanya</h1>
-<h3 align="center">I am Backend and DevOps Engineer. I am a self motivated, continuously learning Software Engineer who believes that Software Engineering is an art. I strive to
+<h3> What do I do? </h3>
+    <p>I am a Backend and DevOps Engineer</p>
+<h3>My Traits or Ideologies</h3>
+    <ul>
+        <li> I believe the Software Engineering is an art </li>
+        <li> I strive to
 write clean, maintainable and testable code that will help me and others in my team to be always ready to implement new
-features. I love working with both Infra and Software as I strongly believe that if a coder knows his underlying infra the
-code will turn out to be much better. Also I am environmentally conscious engineer who wants to achieve more with using
-less resources which saves money for the organization that I work for and also ensures less carbon is omitted</h3>
+features </li>
+        <li>I love working with both Infra and Software as I strongly believe that if a coder knows his underlying infra the
+code will turn out to be much better.</li>
+        <li>I am environmentally conscious engineer who wants to achieve more with using
+less resources which saves money for the organization that I work for and also ensures less carbon is omitted</li>
+    </ul>
     
 <a href="https://app.daily.dev/raging_bulldoze"><img align="right" src="https://github.com/vmanikes/vmanikes/blob/main/devcard.svg" width="400" alt="Venkata S S K M Chaitanya's Dev Card"/></a>
 
