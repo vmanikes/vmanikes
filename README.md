@@ -66,12 +66,11 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/manikeswaramchaitanya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/manikeswaramchaitanya/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8552794" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/8552794/venkata-s-s-k-m-chaitanya" height="30" width="40" /></a>
 <a href="www.instagram.com/name_is_kc/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/name_is_kc/?hl=en" height="30" width="40" /></a>
-<a href="https://medium.com/@cloud_wizard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cloud_wizard" height="30" width="40" /></a>
 </p>
     
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmanikes&layout=compact" alt="vmanikes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vmanikes&show_icons=true" alt="vmanikes" /></p>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64c7fbe824d8db1c82162008?variant=dark" alt="roadmap.sh"/></a>
 </html>
