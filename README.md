@@ -111,25 +111,6 @@
 </p>
 
 <hr/>
-
-<h2>🔓 Open Source &amp; Side Projects</h2>
-<p>
-  I enjoy turning <b>real-world infrastructure problems</b> into reusable tools and reference implementations.
-</p>
-
-<ul>
-  <li>Kubernetes abstractions and platform tooling</li>
-  <li>Terraform and Crossplane modules</li>
-  <li>Networking and OS-level concepts</li>
-  <li>Minimal distributed systems in Go</li>
-</ul>
-
-<blockquote>
-  If a project looks half-polished — it
-    ’s probably a learning playground 😄
-</blockquote>
-
-<hr/>
 <p>
   💼 <b>LinkedIn:</b> https://www.linkedin.com/in/manikeswaramchaitanya;
 </p>
