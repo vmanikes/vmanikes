@@ -1,76 +1,137 @@
-<html>
-    <head>
-        <!-- in your header -->
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
-    </head>
-    <h1 align="center">Hi 👋, I'm Venkata Chaitanya</h1>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmanikes" alt="vmanikes" /> </p>
-    <h3> What do I do? </h3>
-        <p>I am a Backend and DevOps Engineer</p>
-    <h3>My Traits</h3>
-        <ul>
-            <li> I believe the Software Engineering is an art </li>
-            <li> I strive to
-    write clean, maintainable and testable code that will help me and others in my team to be always ready to implement new
-    features </li>
-            <li>I love working with both Infra and Software as I strongly believe that if a coder knows his underlying infra the
-    code will turn out to be much better.</li>
-            <li>I am environmentally conscious engineer who wants to achieve more with using
-    less resources which saves money for the organization that I work for and also ensures less carbon is omitted</li>
-        </ul>
-    <h3>My Principles</h3>
-        <ul>
-            <li>Do one thing and do it better</li>
-            <li>Do not start a task and stop without completing</li>
-            <li>Have Passion and find motivation</li>
-            <li>Start small and improve</li>
-            <li>Be Brutally Honest</li>
-        </ul>
-    
-<a href="https://app.daily.dev/raging_bulldoze"><img align="right" src="https://github.com/vmanikes/vmanikes/blob/main/devcard.svg" width="400" alt="Venkata S S K M Chaitanya's Dev Card"/></a>
+<a href="https://app.daily.dev/raging_bulldoze">
+  <img
+    align="right"
+    src="https://github.com/vmanikes/vmanikes/blob/main/devcard.svg"
+    width="400"
+    alt="Venkata S S K M Chaitanya's Dev Card"
+  />
+</a>
 
-<h3>What Am I doing / love ?</h3>
-    
-- 🌱 I’m currently learning **Rust**
-- 👨‍💻 All of my projects are available at [https://github.com/vmanikes](https://github.com/vmanikes)
-- ⚡ Fun fact **I love programming memes**
+<h1>👋 Hi, I’m Venkata Chaitanya </h1>
 
-<h3 align="left">My Skills:</h3>
-<p align="left">
-    <h4 align="left">Languages:</h4>
-    <a href="https://golang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.rust-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
-    <h4 align="left">Cloud And DevOps:</h4>
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-    <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.nginx.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a>
-    <h4 align="left">Databases:</h4>
-    <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://redis.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a>
-  </p>     
-  
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/manikeswaramchaitanya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/manikeswaramchaitanya/" height="30" width="40" /></a>
-<a href="www.instagram.com/name_is_kc/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/name_is_kc/?hl=en" height="30" width="40" /></a>
+<p>
+  <b>Staff / Senior Software Engineer</b><br/>
+  📍 Alberta, Canada · 🌍 Remote-friendly<br/>
+  🔧 Go · Kubernetes · Cloud Platforms · Infrastructure Engineering · AI Systems
 </p>
-    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmanikes&layout=compact" alt="vmanikes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vmanikes&show_icons=true" alt="vmanikes" /></p>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64c7fbe824d8db1c82162008?variant=dark" alt="roadmap.sh"/></a>
-</html>
+<p>
+  I build <b>scalable infrastructure platforms</b> and <b>intelligent backend systems</b>
+  that help engineering teams move faster <b>without sacrificing reliability or security</b>.
+</p>
+
+<p><b>With 8+ years of experience, I’ve:</b></p>
+<ul>
+  <li>🚀 <b>3× developer productivity</b> through platform abstractions</li>
+  <li>💸 <b>Saved $60K+ per month</b> by redesigning large-scale data pipelines</li>
+  <li>🧠 Built <b>AI-powered systems</b> indexing <b>15M+ social media artifacts</b></li>
+  <li>🏗 Led <b>org-wide migrations</b> (PHP → Go, manual infra → self-serve platforms)</li>
+</ul>
+
+<hr/>
+
+<h2>🧠 What I Work On</h2>
+<ul>
+  <li>Platform Engineering</li>
+  <li>Distributed Systems</li>
+  <li>Cloud &amp; Kubernetes</li>
+  <li>Developer Experience</li>
+  <li>AI / Embeddings Pipelines</li>
+</ul>
+
+<p>
+  I enjoy working at the intersection of <b>infrastructure, product, and developer experience</b>,
+  especially where good abstractions unlock velocity across engineering teams.
+</p>
+
+<hr/>
+
+<h2>🏆 Career Highlights</h2>
+
+<h3>🧩 Platform &amp; Infrastructure</h3>
+<ul>
+  <li>Designed <b>self-serve infrastructure platforms</b> using Go, Kafka, Terraform, and Crossplane</li>
+  <li>Enabled teams to provision AWS resources securely with <b>least-privilege by default</b></li>
+  <li>Standardized observability (metrics, alerts, SLOs) across dozens of services</li>
+</ul>
+
+<h3>🤖 AI &amp; Data Systems</h3>
+<ul>
+  <li>Built <b>large-scale scraping and embeddings pipelines</b> (15M+ Instagram posts)</li>
+  <li>Designed <b>vector search engines</b> with sub-200ms latency at scale</li>
+  <li>Powered influencer discovery systems used by global consumer brands</li>
+</ul>
+
+<h3>🚀 Developer Velocity</h3>
+<ul>
+  <li>Led PHP → Go migrations across multiple teams</li>
+  <li>Established service templates, architectural patterns, and tooling</li>
+  <li>Mentored engineers leading to faster reviews, higher code quality, and fewer production issues</li>
+</ul>
+
+<hr/>
+
+<h2>🛠️ Tech Stack</h2>
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Go · Rust · Python · TypeScript / JavaScript</td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; Infra</b></td>
+    <td>Kubernetes · Docker · AWS · GCP · Terraform · Crossplane · Pulumi</td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; Messaging</b></td>
+    <td>Postgres · MongoDB · Redis · DynamoDB · Elasticsearch · Kafka · SQS · Kinesis</td>
+  </tr>
+  <tr>
+    <td><b>Networking &amp; APIs</b></td>
+    <td>HTTP · gRPC · TCP/IP · DNS · Traefik</td>
+  </tr>
+  <tr>
+    <td><b>Tooling &amp; Observability</b></td>
+    <td>GitHub Actions · Helm · Prometheus · OpenTelemetry · Datadog</td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>📚 What I’m Learning Right Now</h2>
+<ul>
+  <li>🦀 <b>Rust</b> for systems-level reliability and performance</li>
+  <li>🧠 <b>LLM and embeddings pipelines</b> in real-world production systems</li>
+  <li>☸️ <b>Kubernetes internals</b> (scheduling, controllers, admission)</li>
+  <li>🏗 <b>Platform APIs</b> and internal developer platforms (IDPs)</li>
+</ul>
+
+<p>
+  I prefer learning by building — most of my side projects start as experiments around these topics.
+</p>
+
+<hr/>
+
+<h2>🔓 Open Source &amp; Side Projects</h2>
+<p>
+  I enjoy turning <b>real-world infrastructure problems</b> into reusable tools and reference implementations.
+</p>
+
+<ul>
+  <li>Kubernetes abstractions and platform tooling</li>
+  <li>Terraform and Crossplane modules</li>
+  <li>Networking and OS-level concepts</li>
+  <li>Minimal distributed systems in Go</li>
+</ul>
+
+<blockquote>
+  If a project looks half-polished — it
+    ’s probably a learning playground 😄
+</blockquote>
+
+<hr/>
+<p>
+  💼 <b>LinkedIn:</b> https://www.linkedin.com/in/manikeswaramchaitanya;
+</p>
+
+<p><i>“I believe great infrastructure is invisible — until it isn’t.”</i></p>
