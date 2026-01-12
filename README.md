@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/raging_bulldoze">
   <img
     align="right"
-    src="https://github.com/vmanikes/vmanikes/blob/main/devcard.svg"
+    src="https://github.com/vmanikes/vmanikes/blob/main/devcard.png"
     width="400"
     alt="Venkata S S K M Chaitanya's Dev Card"
   />
